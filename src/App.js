@@ -11,9 +11,9 @@ class App extends Component {
     return(
      <div>
        <BrowserRouter>
-          <Nav/>
-         <Index/>
+          <Nav/> 
           <Route exact path='/' component={Index} />
+           <Index/>
           <Route path='/contact' component={Contact} />
        </BrowserRouter>
       
