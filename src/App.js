@@ -12,9 +12,9 @@ class App extends Component {
      <div>
        <BrowserRouter>
           <Nav/> 
-          <Route exact path='/' component={Index} />
+//           <Route exact path='/' component={Index} />
            <Index/>
-          <Route path='/contact' component={Contact} />
+          <Contact/>
        </BrowserRouter>
       
      </div>
