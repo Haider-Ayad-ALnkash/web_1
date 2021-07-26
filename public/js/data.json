@@ -1,0 +1,94 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "href":"https://haider-ayad-alnkash.github.io/my-web/Memory_game.html",
+            "icon_name": "icon fas fa fa-gamepad fa-4x",
+            "title": "Memory game",
+            "body": "This game strengthens the player’s momentary memory. There will be ten minutes and the cards will turn over to remember similar images."
+        },
+        {
+            "id" : 2,
+            "href":"https://haider-ayad-alnkash.github.io/WeathearApp/?fbclid=IwAR2XrfhFWMNuDD0g1ODwAutA7zQxFjaBdr6n7uDl0bHxI6rFtN-YJCBv7HQ",
+            "icon_name": "icon fa fa-bolt fa-4x",
+            "title": "Weathear App",
+            "body": "An application to find out the weather around the world"
+        },
+        {
+            "id" : 3,
+            "href":"https://haider-ayad-alnkash.github.io/reacttest1/?fbclid=IwAR1v_rHGgbR1JIx3LEdFXXszXBu-bbCdfQ5A6K4h5yxbG_AnVQIT4ps3VDE",
+            "icon_name": "icon fa fa-tachometer fa-4x",
+            "title": "TO DO",
+            "body": "The site enables you to organize tasks and write them in an orderly manner Built using the following technologies"
+        },
+        {
+            "id" : 4,
+            "href":"https://www.flipsnack.com/haiderayad/ft9yz2e8t.html?fbclid=IwAR2qbH-W8-DagccupWrRmxV4iu_qku-UrCYX2HIZtgQtz6ZDPGBWjH5To9A",
+            "icon_name": "icon fa fa-globe fa-4x",
+            "title": "planet earth",
+            "body": "I worked with my friend Jalal to produce a magazine full of information about the animal world, and because my friend has a passion for studying the animal world and my passion for designing magazines"
+        },
+        {
+            "id" : 5,
+            "href":"https://khamsat.com/user/haideralnkash",
+            "icon_name": "icon fa fa fa-500px fa-4x",
+            "title": "My services",
+            "body": "I am pleased to offer many services on the famous Arab website in providing professional services with an amount starting from five dollars. If you like to deal with me for the success of your project, I will be ready. Greetings"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "images/Portfolio/portfolio-img2.png"
+        },
+        {
+            "id":3,
+            "image": "images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "images/Portfolio/portfolio-img4.png"
+        },
+        {
+            "id":5,
+            "image": "images/Portfolio/portfolio-img5.png"
+        },
+        {
+            "id":6,
+            "image": "images/Portfolio/portfolio-img6.png"
+        },
+        {
+            "id":7,
+            "image": "images/Portfolio/portfolio-img7.png"
+        },
+        {
+            "id":8,
+            "image": "images/Portfolio/portfolio-img8.png"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
